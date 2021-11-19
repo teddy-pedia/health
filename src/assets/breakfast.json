@@ -1,0 +1,28 @@
+[{
+    "dish_name": "油条",
+    "heat": "388",
+    "introduction": "油条，又称馃子，是一种古老的汉族面食，长条形中空的油炸食品，口感松脆有韧劲，中国传统的早点之一。",
+    "url": "/images/油条.jpeg",
+    "material": "小麦粉，碱，面粉，鲜酵母或老面，牛奶或水，食用油",
+    "protein": "6.9",
+    "fat": "17.6",
+    "carbohydrate": "51"
+}, {
+    "dish_name": "鸡蛋",
+    "heat": "139",
+    "introduction": "鸡蛋，又叫鸡子、鸡卵、蛋",
+    "url": "/images/鸡蛋.jpeg",
+    "material": "母鸡蛋",
+    "protein": "13.1",
+    "fat": "8.6",
+    "carbohydrate": "2.4"
+}, {
+    "dish_name": "皮蛋瘦肉粥",
+    "heat": "88.09",
+    "introduction": "皮蛋瘦肉粥，是一种广东省的地方传统著名小吃。皮蛋瘦肉粥营养丰富，以切成小块的皮蛋及咸瘦肉为配料。",
+    "url": "/images/皮蛋瘦肉粥.jpeg",
+    "material": "皮蛋，猪瘦肉馅，大米，姜，香油，香葱，小青菜，胡椒，精盐，味精，香油",
+    "protein": "3.53",
+    "fat": "1.10",
+    "carbohydrate": "16.17"
+}]

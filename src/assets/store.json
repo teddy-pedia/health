@@ -1,0 +1,440 @@
+{
+    "instr": [{
+            "title": "杠铃",
+            "web": "../../instrument/gangling.jpg"
+        },
+        {
+            "title": "壶铃",
+            "web": "../../instrument/huling.jpg"
+        },
+        {
+            "title": "划船机",
+            "web": "../../instrument/huachuanji.jpg"
+        },
+        {
+            "title": "夹胸器",
+            "web": "../../instrument/jiaxiongqi.jpg"
+        },
+        {
+            "title": "罗马椅",
+            "web": "../../instrument/luomayi.jpg"
+        },
+        {
+            "title": "牧师凳",
+            "web": "../../instrument/mushideng.jpg"
+        },
+        {
+            "title": "弹力带",
+            "web": "../../instrument/tanlidai.jpg"
+        },
+        {
+            "title": "Smith机",
+            "web": "../../instrument/shimisiji.jpg"
+        },
+        {
+            "title": "哑铃",
+            "web": "../../instrument/yaling.jpg"
+        }
+    ],
+    "motion": [{
+            "title": "胸肌",
+            "web": "../../motion/xiongji.png"
+        },
+        {
+            "title": "二头",
+            "web": "../../motion/ertou.png"
+        },
+        {
+            "title": "腹肌",
+            "web": "../../motion/fuji.png"
+        },
+        {
+            "title": "背部",
+            "web": "../../motion/beibu.png"
+        },
+        {
+            "title": "小腿",
+            "web": "../../motion/xiaotui.png"
+        },
+        {
+            "title": "肩部",
+            "web": "../../motion/jianbu.png"
+        }
+    ],
+    "course": [{
+            "web": "../../course/datui_H1.png",
+            "kcal": "63",
+            "region": "tuibu"
+        },
+        {
+            "web": "../../course/datui_H2.png",
+            "kcal": "76",
+            "region": "tuibu"
+        },
+        {
+            "web": "../../course/datui_H3.png",
+            "kcal": "98",
+            "region": "tuibu"
+        },
+        {
+            "web": "../../course/datui_H4.png",
+            "kcal": "114",
+            "region": "tuibu"
+        },
+        {
+            "web": "../../course/fangsong_H1.png",
+            "kcal": "34",
+            "region": "quanshen"
+        },
+        {
+            "web": "../../course/fuji_H1.png",
+            "kcal": "42",
+            "region": "fubu"
+        },
+        {
+            "web": "../../course/fuji_H2.png",
+            "kcal": "94",
+            "region": "fubu"
+        },
+        {
+            "web": "../../course/fuji_H4.png",
+            "kcal": "81",
+            "region": "fubu"
+        },
+        {
+            "web": "../../course/fuji_H5.png",
+            "kcal": "124",
+            "region": "fubu"
+        },
+        {
+            "web": "../../course/fujidiaoke_H1.png",
+            "kcal": "30",
+            "region": "fubu"
+        },
+        {
+            "web": "../../course/fujidiaoke_H2.png",
+            "kcal": "50",
+            "region": "fubu"
+        },
+        {
+            "web": "../../course/fujidiaoke_H3.png",
+            "kcal": "73",
+            "region": "fubu"
+        },
+        {
+            "web": "../../course/fujidiaoke_H4.png",
+            "kcal": "83",
+            "region": "fubu"
+        },
+        {
+            "web": "../../course/fujiqianghua_H4.png",
+            "kcal": "93",
+            "region": "fubu"
+        },
+        {
+            "web": "../../course/fujixunlian_H2.png",
+            "kcal": "42",
+            "region": "fubu"
+        },
+        {
+            "web": "../../course/fujixunlian_H3.png",
+            "kcal": "31",
+            "region": "fubu"
+        },
+        {
+            "web": "../../course/fujixunlian_H4.png",
+            "kcal": "43",
+            "region": "fubu"
+        },
+        {
+            "web": "../../course/HIIT_H1.png",
+            "kcal": "34",
+            "region": "quanshen"
+        },
+        {
+            "web": "../../course/HIIT_H2.png",
+            "kcal": "43",
+            "region": "quanshen"
+        },
+        {
+            "web": "../../course/HIIT_H3.png",
+            "kcal": "52",
+            "region": "quanshen"
+        },
+        {
+            "web": "../../course/HIIT_H4.png",
+            "kcal": "60",
+            "region": "quanshen"
+        },
+        {
+            "web": "../../course/jianjin_H1.png",
+            "kcal": "63",
+            "region": "shoubi"
+        },
+        {
+            "web": "../../course/lashen_H1.png",
+            "kcal": "34",
+            "region": "quanshen"
+        },
+        {
+            "web": "../../course/paobu_H1.png",
+            "kcal": "36",
+            "region": "quanshen"
+        },
+        {
+            "web": "../../course/quanshenjihuo_H1.png",
+            "kcal": "100",
+            "region": "quanshen"
+        },
+        {
+            "web": "../../course/shoubi_H1.png",
+            "kcal": "33",
+            "region": "shoubi"
+        },
+        {
+            "web": "../../course/shoubi_H2.png",
+            "kcal": "47",
+            "region": "shoubi"
+        },
+        {
+            "web": "../../course/shoubi_H3.png",
+            "kcal": "63",
+            "region": "shoubi"
+        },
+        {
+            "web": "../../course/shoubi_H4.png",
+            "kcal": "77",
+            "region": "shoubi"
+        },
+        {
+            "web": "../../course/shoubiqianghua_H4.png",
+            "kcal": "87",
+            "region": "shoubi"
+        },
+        {
+            "web": "../../course/TABATA_H1.png",
+            "kcal": "21",
+            "region": "quanshen"
+        },
+        {
+            "web": "../../course/TABATA_H2.png",
+            "kcal": "26",
+            "region": "quanshen"
+        },
+        {
+            "web": "../../course/TABATA_H3.png",
+            "kcal": "28",
+            "region": "quanshen"
+        },
+        {
+            "web": "../../course/tanlidai_H3.png",
+            "kcal": "71",
+            "region": "quanshen"
+        },
+        {
+            "web": "../../course/tanlidaibei_H3.png",
+            "kcal": "62",
+            "region": "beibu"
+        },
+        {
+            "web": "../../course/tanlidaifu_H3.png",
+            "kcal": "67",
+            "region": "fubu"
+        },
+        {
+            "web": "../../course/tanlidaijian_H3.png",
+            "kcal": "68",
+            "region": "shoubi"
+        },
+        {
+            "web": "../../course/tanlidaishou_H3.png",
+            "kcal": "82",
+            "region": "shoubi"
+        },
+        {
+            "web": "../../course/tanlidaitui_H3.png",
+            "kcal": "113",
+            "region": "tuibu"
+        },
+        {
+            "web": "../../course/tanlidaitun_H3.png",
+            "kcal": "113",
+            "region": "tuibu"
+        },
+        {
+            "web": "../../course/tanlidaixiong_H3.png",
+            "kcal": "93",
+            "region": "xiongbu"
+        },
+        {
+            "web": "../../course/tuibu_H2.png",
+            "kcal": "74",
+            "region": "tuibu"
+        },
+        {
+            "web": "../../course/tuibu_H3.png",
+            "kcal": "152",
+            "region": "tuibu"
+        },
+        {
+            "web": "../../course/tuibu_H4.png",
+            "kcal": "169",
+            "region": "tuibu"
+        },
+        {
+            "web": "../../course/tuibuqianghua_H4.png",
+            "kcal": "235",
+            "region": "tuibu"
+        },
+        {
+            "web": "../../course/tunbu_H2.png",
+            "kcal": "28",
+            "region": "tuibu"
+        },
+        {
+            "web": "../../course/tunbu_H4.png",
+            "kcal": "163",
+            "region": "tuibu"
+        },
+        {
+            "web": "../../course/tunbuqianghua_H4.png",
+            "kcal": "154",
+            "region": "tuibu"
+        },
+        {
+            "web": "../../course/tunxian_H1.png",
+            "kcal": "58",
+            "region": "tuibu"
+        },
+        {
+            "web": "../../course/tunxian_H2.png",
+            "kcal": "126",
+            "region": "tuibu"
+        },
+        {
+            "web": "../../course/tunxian_H3.png",
+            "kcal": "95",
+            "region": "tuibu"
+        },
+        {
+            "web": "../../course/tunxian_H4.png",
+            "kcal": "127",
+            "region": "tuibu"
+        },
+        {
+            "web": "../../course/tuobei_H1.png",
+            "kcal": "57",
+            "region": "beibu"
+        },
+        {
+            "web": "../../course/weimi_H2.png",
+            "kcal": "101",
+            "region": "quanshen"
+        },
+        {
+            "web": "../../course/xiaotui_H1.png",
+            "kcal": "46",
+            "region": "tuibu"
+        },
+        {
+            "web": "../../course/xiaotui_H2.png",
+            "kcal": "55",
+            "region": "tuibu"
+        },
+        {
+            "web": "../../course/xiaotui_H3.png",
+            "kcal": "80",
+            "region": "tuibu"
+        },
+        {
+            "web": "../../course/xiaotui_H4.png",
+            "kcal": "136",
+            "region": "tuibu"
+        },
+        {
+            "web": "../../course/xiongbei_H1.png",
+            "kcal": "44",
+            "region": "xiongbu"
+        },
+        {
+            "web": "../../course/xiongbei_H2.png",
+            "kcal": "55",
+            "region": "xiongbu"
+        },
+        {
+            "web": "../../course/xiongbei_H3.png",
+            "kcal": "66",
+            "region": "xiongbu"
+        },
+        {
+            "web": "../../course/xiongbei_H4.png",
+            "kcal": "88",
+            "region": "xiongbu"
+        },
+        {
+            "web": "../../course/xiongbeiqianghua_H4.png",
+            "kcal": "148",
+            "region": "xiongbu"
+        },
+        {
+            "web": "../../course/yaling_H3.png",
+            "kcal": "108",
+            "region": "quanshen"
+        },
+        {
+            "web": "../../course/yalingbei_H3.png",
+            "kcal": "109",
+            "region": "beibu"
+        },
+        {
+            "web": "../../course/yalingfu_H3.png",
+            "kcal": "87",
+            "region": "fubu"
+        }, {
+            "web": "../../course/yalingjian_H3.png",
+            "kcal": "70",
+            "region": "shoubi"
+        },
+        {
+            "web": "../../course/yalingtui_H3.png",
+            "kcal": "108",
+            "region": "tuibu"
+        },
+        {
+            "web": "../../course/yalingtun_H3.png",
+            "kcal": "89",
+            "region": "tuibu"
+        },
+        {
+            "web": "../../course/yalingxiong_H3.png",
+            "kcal": "66",
+            "region": "xiongbu"
+        },
+        {
+            "web": "../../course/yujia_H1.png",
+            "kcal": "34",
+            "region": "quanshen"
+        },
+        {
+            "web": "../../course/zhifang_H3.png",
+            "kcal": "140",
+            "region": "quanshen"
+        },
+        {
+            "web": "../../course/zhifang_H4.png",
+            "kcal": "177",
+            "region": "quanshen"
+        },
+        {
+            "web": "../../course/zhifangraoshao_H2.png",
+            "kcal": "109",
+            "region": "quanshen"
+        },
+        {
+            "web": "../../course/zhoushi_H5.png",
+            "kcal": "67",
+            "region": "fubu"
+        }
+    ]
+
+}
